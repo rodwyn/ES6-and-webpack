@@ -1,6 +1,7 @@
 # ES6-and-webpack
 My first steps in ES6 using webpack.
 
-Install
-npm install 
+Install<br>
+npm install
+<br>
 npm run build
